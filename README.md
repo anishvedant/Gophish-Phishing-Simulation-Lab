@@ -44,7 +44,7 @@ The interface shows careful attention to timing, with campaigns schedulable for 
 
 ### Employee Profile Analysis
 
-![User Group Management](screenshots/image14.png)
+![User Group Management](screenshots/image3.png)
 *Figure 3: Target group "testuser" showing diverse employee roles across departments*
 
 The target selection included employees from various organizational levels and departments:
@@ -62,7 +62,7 @@ This diverse selection provided insights across different departments and techni
 
 ### Template Construction
 
-![Email Template Editor](screenshots/image16.png)
+![Email Template Editor](screenshots/image5.png)
 *Figure 4: HTML email template showing sophisticated social engineering techniques including urgency tactics and official formatting*
 
 The email template employed several psychological manipulation techniques:
@@ -79,7 +79,7 @@ The template source code reveals careful attention to visual credibility, includ
 
 ### Credential Harvesting Interface
 
-![Google Sign-In Landing Page](screenshots/image18.png)
+![Google Sign-In Landing Page](screenshots/image7.png)
 *Figure 5: Landing page configuration showing Google authentication replica designed to capture credentials*
 
 The landing page replicated Google's sign-in interface with remarkable accuracy. Key design elements included:
@@ -94,7 +94,7 @@ The system warned about credential storage being unencrypted, highlighting the i
 
 ### Technical Infrastructure
 
-![SMTP Configuration](screenshots/image20.png)
+![SMTP Configuration](screenshots/image9.png)
 *Figure 6: Sending profile showing SMTP relay configuration with Gmail integration for authentic email delivery*
 
 The SMTP configuration demonstrates the technical sophistication required for believable phishing campaigns:
@@ -108,7 +108,7 @@ The SMTP configuration demonstrates the technical sophistication required for be
 
 ### Real-Time Campaign Monitoring
 
-![Campaign Timeline](screenshots/image3.png)
+![Campaign Timeline](screenshots/image10.png)
 *Figure 7: Campaign timeline showing progression from email delivery through user interactions*
 
 The campaign timeline reveals the following sequence:
@@ -125,7 +125,7 @@ This timeline demonstrates rapid user engagement, with the first interactions oc
 
 ### Campaign Metrics Overview
 
-![Campaign Results Dashboard](screenshots/image10.png)
+![Campaign Results Dashboard](screenshots/image11.png)
 *Figure 8: Comprehensive results dashboard showing campaign effectiveness across all metrics*
 
 The campaign achieved significant engagement across all measured metrics:
@@ -138,7 +138,7 @@ The campaign achieved significant engagement across all measured metrics:
 
 ### Individual User Responses
 
-![Detailed User Results](screenshots/image3.png)
+![Detailed User Results](screenshots/image20.png)
 *Figure 9: Individual employee responses showing varying levels of security awareness*
 
 The detailed results reveal different response patterns:
@@ -157,7 +157,7 @@ The detailed results reveal different response patterns:
 
 ### Email Interaction Examples
 
-![Received Phishing Email - Alex](screenshots/image4.png)
+![Received Phishing Email - Alex](screenshots/image12.png)
 *Figure 10: Actual phishing email as received by target, showing professional appearance and urgency messaging*
 
 The email implementation demonstrates high sophistication with:
@@ -166,7 +166,11 @@ The email implementation demonstrates high sophistication with:
 - Urgent call-to-action messaging
 - Seamless integration with organizational email systems
 
-![Email Inbox View - Multiple Targets](screenshots/image6.png)
+![Email Inbox View - Multiple Targets](screenshots/image13.png)
+![Email Inbox View - Multiple Targets](screenshots/image14.png)
+![Email Inbox View - Multiple Targets](screenshots/image15.png)
+![Email Inbox View - Multiple Targets](screenshots/image16.png)
+![Email Inbox View - Multiple Targets](screenshots/image17.png)
 *Figure 11: Multiple email deliveries showing consistent formatting across different email providers*
 
 ## Credential Harvesting Results
@@ -176,14 +180,15 @@ The email implementation demonstrates high sophistication with:
 Based on the campaign data and visible evidence in the screenshots, the following dummy credentials were captured:
 
 **Captured Test Credentials:**
-- User: testmail@yahoo.com | Password: mystrongestpassword
-- User: [Additional credentials visible in monitoring logs]
+- User: keyondra@bictise.com | Password: password
+- User: 6cwmct0c8a@ibolinva.com | Password: 123456789
+- User: 46c8l@powerscrews.com | Password: mystrongestpassword
 
 The system successfully demonstrated the ability to capture both usernames and passwords in plaintext, highlighting the critical security risk posed by credential phishing attacks.
 
 ### Data Exfiltration Timeline
 
-![Campaign Activity Log](screenshots/image11.png)
+![Campaign Activity Log](screenshots/image19.png)
 *Figure 12: Detailed campaign logs showing precise timing of user interactions and data capture events*
 
 The activity logs reveal granular details about user interactions:
@@ -196,9 +201,6 @@ The activity logs reveal granular details about user interactions:
 ## Technical Analysis
 
 ### Email Delivery Infrastructure
-
-![Temporary Email Services](screenshots/image8.png)
-*Figure 13: Target email addresses showing use of temporary email services for testing purposes*
 
 The campaign utilized various email providers including temporary services, demonstrating:
 - Cross-platform compatibility
@@ -284,23 +286,6 @@ This GoPhish campaign successfully demonstrated significant organizational vulne
 The technical implementation proved highly effective, with professional email templates and landing pages achieving believable social engineering attacks. The comprehensive tracking and reporting capabilities of GoPhish provided valuable insights into user behavior patterns and organizational security posture.
 
 Moving forward, regular phishing simulations combined with targeted training programs will be essential for improving organizational security awareness and reducing human-factor vulnerabilities. The baseline measurements established by this campaign provide a foundation for measuring improvement in future assessments.
-
-## Appendices
-
-### Campaign Configuration Files
-- Email template HTML source code
-- Landing page configuration settings
-- SMTP relay configuration parameters
-
-### Raw Data Export
-- Complete CSV export of campaign results
-- Individual user interaction timelines
-- Credential capture logs (sanitized)
-
-### Technical Documentation
-- GoPhish platform configuration
-- Email infrastructure setup procedures
-- Security considerations and best practices
 
 ---
 
